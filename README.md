@@ -1,2 +1,2 @@
-# BURNIN
-initial model to project JIG flows
+# BURNIN 
+model of node-red project BURNIN
