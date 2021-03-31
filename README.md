@@ -1,2 +1,2 @@
-# BURNIN 
-model of node-red project BURNIN
+# BURNIN / JIG
+model of node-red project
